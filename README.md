@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Android Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width= "400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0emtzNnQzMmIxZWVzMnV6ZWRtOWd1dHd1Z2k0NGN2ejMxOTltZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif">
+<img align="right" alt="coding" width= "380" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0emtzNnQzMmIxZWVzMnV6ZWRtOWd1dHd1Z2k0NGN2ejMxOTltZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehroz-ameer&label=Profile%20views&color=0e75b6&style=flat" alt="shehroz-ameer" /> </p>
 
