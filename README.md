@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences **[Shehroz's Resume](https://drive.google.com/file/d/1sDHi_jn3RoVasKhP_4cTKltpErG7ILR5/view)**
   
-- Love 📖 and 🍽️ 
+- Love 📖 and 🍽️ 📝
 - Proud 🇵🇰
 
 <h3 align="left">Connect with me:</h3>
