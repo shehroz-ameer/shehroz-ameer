@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ameer_shehroz" target="blank"><img src="https://img.shields.io/twitter/follow/ameer_shehroz?logo=twitter&style=for-the-badge" alt="ameer_shehroz" /></a> </p>
 
-- 🔭 I’m currently working on **Kameti App**
+- 🔭 I’m currently working on **[Islam360 App](https://play.google.com/store/apps/details?id=com.islam360&hl=en_US)**
 
 - 🌱 I’m currently learning **Jetpack Compose and Kotlin Multiplatform**
 
